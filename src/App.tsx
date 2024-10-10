@@ -1,10 +1,10 @@
-import {ObjectLiterals} from './typescript';
+import {BasicFunctions} from './typescript';
 
 function App() {
   return (
     <main>
       <h1>Hola</h1>
-      <ObjectLiterals/>
+      <BasicFunctions/>
     </main>
   )
 }
