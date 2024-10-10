@@ -1,10 +1,10 @@
-import {BasicFunctions} from './typescript';
+import { Counter } from './components';
 
 function App() {
   return (
     <main>
       <h1>Hola</h1>
-      <BasicFunctions/>
+      <Counter/>
     </main>
   )
 }
